@@ -191,10 +191,10 @@ if eat_in or eat_out:
                 print("Fristi")
             else: 
                 aborted = True
-            else:
-                aborted = True
-            else:
-                aborted = True
+        else:
+            aborted = True
+    else:
+        aborted = True
         
         if aborted:
             print("Abort, unknown input.")
@@ -203,7 +203,7 @@ if eat_in or eat_out:
                 print("Bedankt voor uw bestelling en eet smakelijk in ons restaurant.")
             elif eat_out:
                 print("Bedankt voor uw bestelling, goede reis en eet smakelijk.")
-                
+
                 
 
         
