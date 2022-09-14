@@ -1,7 +1,7 @@
 ##opdracht1
 # // = gedeeld door de cijfer erna en naar beneden afronden
 # ** = kwadrateren
-
+#123
 print(2+3)
 print(2-3)
 print(2*3)
